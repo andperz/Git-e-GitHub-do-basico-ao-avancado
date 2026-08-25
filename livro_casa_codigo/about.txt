@@ -1,3 +1,4 @@
 Controlando versões com Git e GitHub - Caso do Código
 
 - primeira linha modificada
+- segunda linha modificada
